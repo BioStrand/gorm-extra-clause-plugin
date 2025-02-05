@@ -1,6 +1,6 @@
-module github.com/WinterYukky/gorm-extra-clause-plugin
+module github.com/BioStrand/gorm-extra-clause-plugin
 
-go 1.21
+go 1.22
 
 require (
 	github.com/DATA-DOG/go-sqlmock v1.5.2

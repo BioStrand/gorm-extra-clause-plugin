@@ -6,8 +6,8 @@ import (
 	"regexp"
 	"testing"
 
+	extraClausePlugin "github.com/BioStrand/gorm-extra-clause-plugin"
 	"github.com/DATA-DOG/go-sqlmock"
-	extraClausePlugin "github.com/WinterYukky/gorm-extra-clause-plugin"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 	"gorm.io/gorm/clause"

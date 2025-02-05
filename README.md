@@ -29,8 +29,8 @@ import (
   "gorm.io/gorm"
   "gorm.io/driver/sqlite"
   // Add plugin package
-  extraClausePlugin "github.com/WinterYukky/gorm-extra-clause-plugin"
-  "github.com/WinterYukky/gorm-extra-clause-plugin/exclause"
+  extraClausePlugin "github.com/BioStrand/gorm-extra-clause-plugin"
+  "github.com/BioStrand/gorm-extra-clause-plugin/exclause"
 )
 
 func main() {
